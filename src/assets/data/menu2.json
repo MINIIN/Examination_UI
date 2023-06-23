@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "route": "add-subject",
+      "name": "add-subject",
+      "type": "link",
+      "icon": "add_box"
+    },
+    {
+      "route": "add-score",
+      "name": "add-score",
+      "type": "link",
+      "icon": "add_box"
+    },
+    {
+      "route": "tester-score",
+      "name": "tester-score",
+      "type": "link",
+      "icon": "school"
+    }
+
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "menu": [
+    {
+      "route": "admin-Dashbord",
+      "name": "admin-Dashbord",
+      "type": "link",
+      "icon": "dashboard"
+    },
+    {
+      "route": "register",
+      "name": "register",
+      "type": "link",
+      "icon": "dashboard"
+    }
+
+  ]
+}

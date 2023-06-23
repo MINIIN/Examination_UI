@@ -1,0 +1,17 @@
+{
+  "menu": [
+     {
+      "route": "register-subject",
+      "name": "register-subject",
+      "type": "link",
+      "icon": "add_box"
+    },
+    {
+      "route": "examination-score",
+      "name": "examination-score",
+      "type": "link",
+      "icon": "school"
+    }
+
+  ]
+}
